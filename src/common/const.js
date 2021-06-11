@@ -1,0 +1,4 @@
+const BACK_POSTION = 1800
+export {
+	BACK_POSTION
+}
